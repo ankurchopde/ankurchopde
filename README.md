@@ -46,7 +46,6 @@ I enjoy understanding how things work at the silicon level and building systems 
 **GPU & Parallel Computing**
 
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-![RTX 5050](https://img.shields.io/badge/RTX_5050-Blackwell-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **ML & Data**
 
