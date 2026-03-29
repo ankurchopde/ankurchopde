@@ -66,18 +66,6 @@ I enjoy understanding how things work at the silicon level and building systems 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔐 [Hardware Security Demo](https://github.com/ankurchopde) | Timing side-channel attack + mitigation on Nexys A7 FPGA | Verilog, Python, RPi |
-| 📡 [ML Signal Denoising](https://github.com/ankurchopde) | Conv1D model for non-stationary noise — deployed on RPi via TFLite | TF, TFLite, RPi |
-| 🔢 [4-Bit ALU on FPGA](https://github.com/ankurchopde) | RTL ALU with arithmetic, logic, shift, compare ops on Artix-7 | Verilog, Vivado |
-| 🏠 [Home Automation](https://github.com/ankurchopde/home-automation-arduino) | PIR + LDR + TMP36 driven relay control system | Arduino, C |
-| 💡 [Smart Street Lighting](https://github.com/ankurchopde) | YOLO-based adaptive brightness with energy modeling | Python, YOLO, CV |
-| 🛡️ [Shield Sight](https://github.com/ankurchopde) | Smart security system — face recognition, motion, gas detection | RPi, CV, IoT |
-
----
 
 ## 📊 GitHub Stats
 
